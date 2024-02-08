@@ -6,9 +6,9 @@
 Esta classe fornece uma maneira simples de formatar números de telefone no formato brasileiro.
 
 ## Uso
-
-Para usar a classe `FormatarTelefone`, siga estas etapas:
 ![Arquivo Header](formatartelefoneH.png)
+Para usar a classe `FormatarTelefone`, siga estas etapas:
+
 1. **Incluir o arquivo de cabeçalho:**
 
    ```cpp
